@@ -1,2 +1,4 @@
-# Resources
-A consolidation of various cybersecurity, networking and job resources from classes and research
+# Welcome to my Resources Repo! 
+Here you will find a consolidaiton of various cybersecurity, networking and career resources from my classes and research!
+
+## Go to the wiki to access my resources!
